@@ -7,8 +7,8 @@
 
 # Name of website
 title: Perry Tubul
-description: 3rd-year Computer Science student. Higlhy motivated, hard-working, disciplined and fast learner. Looking for a junior developer student position
 
+description: 3rd-year Computer Science student. Higlhy motivated, hard-working, disciplined and fast learner. Looking for a junior developer student position
 # Your name to show in the footer
 author: Perry Tubul
 
@@ -22,7 +22,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -37,10 +37,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "perrytubul@gmail.com"
+ # facebook: deanattali
+ # github: daattali
+ # twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -61,7 +61,6 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
