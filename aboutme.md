@@ -3,5 +3,5 @@ layout: page
 title: About me
 ---
 
-[click here](https://www.ynet.co.il) to download my resume.
+[click here](https://gofile.io/d/EfXOa7) to download my resume.
 
